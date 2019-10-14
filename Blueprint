@@ -1,7 +1,7 @@
 Blueprint of the Problem
 
-The system has one participant named User. T
-here are two assets, ie Property and Property Listing, and 
+The system has one participant named User. 
+There are two assets, ie Property and Property Listing, and 
 three transactions, ie createProperty, intentForSale and purchaseProperty.
 
 
