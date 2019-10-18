@@ -1,0 +1,22 @@
+{
+  "name": "asset-registration-blockchain",
+  "version": "1.0.0",
+  "description": "Asset registration is the process by which one can register the documents related to an asset with legal entities.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityasingh177/asset-registration-blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityasingh177/asset-registration-blockchain/issues"
+  },
+  "homepage": "https://github.com/adityasingh177/asset-registration-blockchain#readme"
+}
