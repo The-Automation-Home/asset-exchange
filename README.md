@@ -1,2 +1,2 @@
 # Asset Exchange
-Asset registration is the process by which one can register the documents related to an asset with legal entities.
+Aex is a platform for exchanging assets with different ecosystems based on blockchain
